@@ -234,7 +234,7 @@ Explore some [good first issues](https://github.com/TransformerOptimus/SuperAGI/
 [![lalitlj](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138583454?v=4&w=50&h=50&mask=circle)](https://github.com/lalitlj)
 [![andrew-kelly-neutralaiz](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128111428?v=4&w=50&h=50&mask=circle)](https://github.com/andrew-kelly-neutralaiz)
 [![sayan1101](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139119661?v=4&w=50&h=50&mask=circle)](https://github.com/sayan1101)
-
+(https://github.com/Karlfiner-Robotiken)
 
 <p align="center"><a href="https://github.com/TransformerOptimus/SuperAGI#"><img src="https://superagi.com/wp-content/uploads/2023/05/backToTopButton.png" alt="Back to top" height="29"/></a></p>
 
